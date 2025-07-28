@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+# role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Graduate
+  - name: Recent Graduate
     # url: https://openai.com/
 
 # Social network links
@@ -137,11 +137,7 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    # percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.

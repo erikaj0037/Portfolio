@@ -50,7 +50,7 @@ interests:
   - Hyperspectral Imaging Analysis
 
 education:
-  - area: Master's in Robotics
+  - area: Master's in Robotics, 2024
     institution: Georgia Institute of Technology
     date_start: 2022-08-22
     date_end: 2024-12-14
@@ -64,10 +64,12 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: Bachelor's in Aerospace Engineering
+  - area: Bachelor's in Aerospace Engineering, 2022
+    area: Minor in Astronomy and Astrophysics
     institution: University of Michigan
     date_start: 2018-06-23
     date_end: 2022-04-30
+
     # summary: |
     #   # GPA: 3.8/4.0
 
@@ -171,4 +173,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Erika Jones is currently pursuing research opportunities to apply deep learning to the analysis hyperspectral remote sensing imaging data in the U.S. Defense sector. She has a wide-range of computational and scientific interests such as computer vision, machine learning, signal processing, and astronomical spectroscopy. In her career, she hopes achieve precise, accurate, and in-depth data analysis with deep learning techniques, particularly unsupervised and artifical intelligence-led knowledge discovery.

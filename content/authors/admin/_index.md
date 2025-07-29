@@ -64,8 +64,7 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: Bachelor's in Aerospace Engineering, 2022
-    area: Minor in Astronomy and Astrophysics
+  - area: Bachelor's in Aerospace Engineering, Minor in Astronomy and Astrophysics, 2022
     institution: University of Michigan
     date_start: 2018-06-23
     date_end: 2022-04-30

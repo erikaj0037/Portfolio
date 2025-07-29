@@ -28,10 +28,10 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The human brain processes visuospatial information to optimize motion toward a target position in space. The effects of different brain waves on the relationship between information processed and movement time, defined by Fitt’s Law, were investigated. We observed and analyzed the impact of ambient sounds across different frequencies such as white noise, pink noise, and brown noise before and during motion planning to a target location. Additionally, the effects of meditation prior to performing the movement-to-target exercise were evaluated. The sounds and meditation intended to alter the participant’s mental state by modulating brain activity, or brain waves, associated with states such as focus, alertness, and problem solving. Brain waves were recorded throughout the experiment using an electroencephalographic (EEG) device.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# # Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - The Effect of Sound-Induced Brain Waves on Visuospatial Information Processing

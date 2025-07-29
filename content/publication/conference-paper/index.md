@@ -9,9 +9,9 @@ authors:
   - Qichen Liu
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 date: '2023-12-16T00:00:00Z'
 doi: ''
@@ -22,7 +22,7 @@ doi: ''
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+# publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Hugo Blox Builder Conference*
@@ -65,15 +65,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+#   - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}

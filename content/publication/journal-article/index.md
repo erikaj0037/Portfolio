@@ -27,7 +27,7 @@ abstract: Hyperspectral cameras record intensities of light from hundreds to tho
 
 # tags:
 # - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""

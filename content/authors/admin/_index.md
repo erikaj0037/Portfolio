@@ -81,8 +81,8 @@ work:
     company_name: Georgia Institute of Technology
     company_url: ''
     company_logo: ''
-    date_start: 2023-01
-    date_end: 2024-12
+    date_start: 2023-01-09
+    date_end: 2024-12-13
     summary: |2-
       Responsibilities include:
       - Performed software and operating system installations onto computers for faculty, staff, and students of the Aerospace Engineering department
@@ -92,8 +92,8 @@ work:
     company_name: Toyota Motor North America, Research and Development
     company_url: ''
     company_logo: ''
-    date_start: 2023-05
-    date_end: 2023-08
+    date_start: 2023-05-22
+    date_end: 2023-08-11
     summary: |
       Responsibilities include:
       - Researched and evaluated OpenAI's ChatGPT and GPT-4’s ability to support researchers through report revision, meeting content summarization, and resource compilation
@@ -102,8 +102,8 @@ work:
     company_name: Pratt & Whitney
     company_url: ''
     company_logo: ''
-    date_start: 2022-05
-    date_end: 2022-12
+    date_start: 2022-05-16
+    date_end: 2022-12-29
     summary: |2-
       Responsibilities include:
       - Analyzed thermal stress test results of military jet engine casings and organized data to support engineers
@@ -113,8 +113,8 @@ work:
     company_name: Fermi National Accelerator Laboratory | University of Michigan
     company_url: ''
     company_logo: ''
-    date_start: 2021-05
-    date_end: 2022-05
+    date_start: 2021-05-17
+    date_end: 2022-04-29
     summary: |2-
       Responsibilities include:
       - Used computer vision to simplify the assembly of fragile cylindrical planes for the Muon-to-Electron Conversion Experiment (Mu2e) Tracker of the Mu2e Project 

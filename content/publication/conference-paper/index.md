@@ -1,23 +1,23 @@
 ---
-title: 'An example conference paper'
+title: The Effects of Sound-Induced Brain Waves on Visuospatial Information Processing
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Qichen Liu
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-12-16T00:00:00Z'
 doi: ''
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+# # Schedule page publish date (NOT publication's date).
+# publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,16 +25,16 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+# publication: In *Hugo Blox Builder Conference*
+# publication_short: In *ICW*
 
 abstract: The human brain processes visuospatial information to optimize motion toward a target position in space. The effects of different brain waves on the relationship between information processed and movement time, defined by Fitt’s Law, were investigated. We observed and analyzed the impact of ambient sounds across different frequencies such as white noise, pink noise, and brown noise before and during motion planning to a target location. Additionally, the effects of meditation prior to performing the movement-to-target exercise were evaluated. The sounds and meditation intended to alter the participant’s mental state by modulating brain activity, or brain waves, associated with states such as focus, alertness, and problem solving. Brain waves were recorded throughout the experiment using an electroencephalographic (EEG) device.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-  - The Effect of Sound-Induced Brain Waves on Visuospatial Information Processing
+# tags:
+#   - The Effects of Sound-Induced Brain Waves on Visuospatial Information Processing
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,13 +45,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

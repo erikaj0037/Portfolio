@@ -127,12 +127,12 @@ skills:
         description: Python, C++, MATLAB
         # percent: 80
         # icon: code-bracket
-      - name: Python Libraries
-        description: PyTorch, TensorFlow, OpenCV, Spectral, Matplotlib, Seaborn, Scikit-Learn
+      - name: Software Libraries
+        description: PyTorch, TensorFlow, OpenCV, Spectral, Matplotlib, Seaborn, Scikit-Learn, ROS2
         # percent: 100
         # icon: chart-bar
-      - name: Operating Systems/Software Libraries
-        description: Windows, Linux, ROS2
+      - name: Operating Systems
+        description: Windows, Linux
         # percent: 40
         # icon: circle-stack
   - name: Hobbies

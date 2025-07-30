@@ -6,7 +6,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2024-12-03T00:00:00Z"
-doi: ""
+# doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -26,7 +26,7 @@ abstract: Hyperspectral cameras record intensities of light from hundreds to tho
 # summary: Project in progress
 
 tags:
-- Project in progress
+- Project in Progress
 featured: true
 
 # links:

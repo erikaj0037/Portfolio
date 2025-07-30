@@ -129,7 +129,7 @@ skills:
         # icon: code-bracket
       - name: Python Libraries
         description: PyTorch, TensorFlow, OpenCV, Spectral, Matplotlib, Seaborn, Scikit-Learn
-        percent: 100
+        # percent: 100
         # icon: chart-bar
       - name: Operating Systems/Software Libraries
         description: Windows, Linux, ROS2

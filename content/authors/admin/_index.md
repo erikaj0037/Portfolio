@@ -57,10 +57,6 @@ education:
     summary: |
       GPA: 3.75/4.0
 
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'

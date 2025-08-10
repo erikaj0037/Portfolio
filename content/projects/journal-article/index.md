@@ -33,7 +33,7 @@ featured: true
 # - name: ""
 #   url: ""
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
-# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: https://github.com/erikaj0037/Plant-Health-Monitoring-System
 url_dataset: https://entrepot.recherche.data.gouv.fr/dataset.xhtml?persistentId=doi:10.57745/R6AMN3
 # url_poster: ''
 # url_project: ''

@@ -106,11 +106,11 @@ work:
       - Analyzed thermal stress test results of military jet engine casings and organized data to support engineers
       - Validated strain gauge placements on engine tubing prior to testing
       - Reviewed process for ensuring the safety and reliability of the engine by studying Mechanical Engine Design documentation
-  - position: Visiting Engineer | Research Assistant
-    company_name: Fermi National Accelerator Laboratory | University of Michigan
+  - position: Research Assistant | Visiting Engineer
+    company_name: University of Michigan | Fermi National Accelerator Laboratory
     company_url: ''
     company_logo: ''
-    date_start: 2021-05-17
+    date_start: 2020-01-20
     date_end: 2022-04-29
     summary: |2-
       Responsibilities include:

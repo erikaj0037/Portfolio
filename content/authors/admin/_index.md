@@ -48,6 +48,7 @@ interests:
   - Artificial Intelligence
   - Computer Vision
   - Hyperspectral Imaging Analysis
+  - Astrophysics/Cosmology
 
 education:
   - area: Master's in Robotics, 2024
@@ -148,6 +149,10 @@ skills:
         # percent: 100
         # icon: cat
       - name: Reading
+        # description: ''
+        # percent: 80
+        # icon: camera
+      - name: Knitting/crocheting
         # description: ''
         # percent: 80
         # icon: camera

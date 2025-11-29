@@ -190,4 +190,8 @@ skills:
 
 ## About Me
 
-Erika Jones is currently pursuing research opportunities to apply deep learning to the analysis of hyperspectral remote sensing imaging data in the U.S. Defense sector. She has a wide-range of computational and scientific interests such as computer vision, machine learning, signal processing, and astronomical spectroscopy. In her career, she hopes achieve precise, accurate, and in-depth data analysis with deep learning techniques, particularly unsupervised learning.
+Erika Jones is currently pursuing research opportunities to apply deep learning to the analysis of multi-wavelength imaging data. She has a wide-range of computational and scientific interests such as computer vision, machine learning, signal processing, and astronomical spectroscopy. In her career, she hopes achieve precise, accurate, and in-depth data analysis with deep learning techniques, particularly unsupervised learning.
+
+<!-- Erika Jones is currently pursuing research opportunities to apply deep learning to the analysis of hyperspectral remote sensing imaging data in the U.S. Defense sector. She has a wide-range of computational and scientific interests such as computer vision, machine learning, signal processing, and astronomical spectroscopy. In her career, she hopes achieve precise, accurate, and in-depth data analysis with deep learning techniques, particularly unsupervised learning. -->
+
+
